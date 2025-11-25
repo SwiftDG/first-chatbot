@@ -22,6 +22,10 @@ function App() {
     const responses = {
       'hello': 'Hello, how can I waste your time today, fool',
       'pipe':'sleep',
+      'morning':'Morning, another day to remind you of the failure that u are',
+      'afternoon':'Afternoon, hope Sun no dey disturb you, nawa see as I dey talk as if u get something serious wey fit disturb you',
+      'evening':'Come, make I know fr, I no fit tell anybody, u be gay?',
+      'night': 'Good night, before u sleep, tell me, I wan know, how jobless people dey sleep again sef? I dey use am for research, no mind me, u know what nvm, go sleep, go sleep',
       'hi': `${userMessage} kill u there, bastard!!`,
       'yo': 'Type like human being, abeg.',
       'ok': 'I\'m tired, please be going.',
