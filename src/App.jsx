@@ -21,6 +21,7 @@ function App() {
   const generateBotResponse = (userMessage) => {
     const responses = {
       'hello': 'Hello, how can I waste your time today, fool',
+      'pipe':'sleep',
       'hi': `${userMessage} kill u there, bastard!!`,
       'yo': 'Type like human being, abeg.',
       'ok': 'I\'m tired, please be going.',
