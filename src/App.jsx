@@ -22,6 +22,8 @@ function App() {
     const responses = {
       'hello': 'Hello, how can I waste your time today, fool',
       'pipe':'sleep',
+      'homie':'Come, u dey Naija?, cus I no understand all this homie homie I dey hear.',
+      'werey':'Somebody shout Foooooooool!!!!❤️❤️ Cus u are a fooooooooooollll❤️❤️❤️',
       'morning':'Morning, another day to remind you of the failure that u are',
       'afternoon':'Afternoon, hope Sun no dey disturb you, nawa see as I dey talk as if u get something serious wey fit disturb you',
       'evening':'Come, make I know fr, I no fit tell anybody, u be gay?',
